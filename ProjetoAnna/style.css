@@ -1,0 +1,43 @@
+body {
+    background-image:  url('img/fundo.png') ;
+    font:16px Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 1.2em;
+    color:#828271;
+}
+img {
+    border: 10px solid rgba(105, 150, 37, 0.445);
+}
+
+#foot {
+    font-weight: 600;
+    align-self: center;
+}
+
+#all {
+    width: 900px;
+    height: auto;
+}
+
+#nav-bar {
+    background: #c5c5b2;
+    font-weight: bold;
+    padding: 18px;
+
+}
+a {
+    padding: 5px;
+    text-decoration: none;
+    color: #4b566a;
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding:10px;
+}
+
+.center{
+    text-align: center;
+}
